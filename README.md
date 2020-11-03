@@ -1,5 +1,5 @@
 # Ohjelmistotekniikka 2020, harjoitustyö
-Välkommen to my **repository**! This is where I *poke* at code and to see what happens
+Välkommen to my **repository**! This is where I *poke* at code and see what happens
 
 ## Viikko 1
 
