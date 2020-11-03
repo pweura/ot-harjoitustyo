@@ -1,6 +1,7 @@
 # Ohjelmistotekniikka, harjoitustyö syksy 2020
 ### Welcome! <h2> To my repository of *poking at* code and seeing **what** happens
-##Viikko 1
+
+## Viikko 1
 
 Here are what I've produced so far:
 
