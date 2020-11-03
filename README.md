@@ -1,5 +1,4 @@
-# Ohjelmistotekniikka, harjoitustyö
-## Syksy 2020
+# Ohjelmistotekniikka syksy 2020, harjoitustyö
 Welcome to my **repository**! This is where I *poke* at code and to see what happens
 
 ## Viikko 1
