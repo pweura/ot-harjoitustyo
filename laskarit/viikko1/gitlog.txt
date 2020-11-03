@@ -1,4 +1,4 @@
-*ekstrarivi for test reasons*
+ekstrarivi for test reasons
 commit 50c8677dff5d9ed6be7a8acd5364ab3d380c5e68
 Author: petrakos <petra.koskela@helsinki.fi>
 Date:   Tue Nov 3 04:40:02 2020 +0200
