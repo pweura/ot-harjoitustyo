@@ -1,0 +1,114 @@
+commit 50c8677dff5d9ed6be7a8acd5364ab3d380c5e68
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:40:02 2020 +0200
+
+    aika hieno liuta muutoksia
+
+ file1                        | 1 +
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 3 files changed, 1 insertion(+)
+
+commit 85f7fd198cebf2ddbe8b2fde4d426fe34818cfa6
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:33:19 2020 +0200
+
+    created file1,2 and 3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f95ee11a8914359e95bfdf2a8c64a51d7e817d19
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:27:44 2020 +0200
+
+    patches committed
+
+ eka.txt    | 7 +++----
+ kolmas.txt | 4 +++-
+ 2 files changed, 6 insertions(+), 5 deletions(-)
+
+commit cc84269da01c99eb9d09eea25fd2a140c2f5aac2
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:22:53 2020 +0200
+
+    renamed tiedosto.txt to eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a825f71bdc1abb178742ec8579402ad7659ff012
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:21:52 2020 +0200
+
+    toinen.txt deleted
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit cf3e0eb08d379aba18c5b17b01b74153547d06a6
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:20:23 2020 +0200
+
+    tiedosto.txt:iin poistettiin ja lisättiin
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit a287305db9cabdd74a829d897b584e0adf168b99
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:17:42 2020 +0200
+
+    tiedosto.txt lisää tekstiä
+
+ tiedosto.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 06e2df6e5e476fd5b1e7fef4b38a58375a13a25f
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:01:52 2020 +0200
+
+    created stuff and jokin.txt
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f303c211eec43e318621cd573ec0a908098ca3b4
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 04:00:45 2020 +0200
+
+    toisen ja kolmannen muokkaus
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit a753345d9d7b7b07bf4a73ab109067d2348d07b7
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 03:58:32 2020 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e8e9b32a48faaad1294eb5c55f10c882bfa686e3
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 03:57:13 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit d2116389c94e905a85bf45b409f4f52642670fe4
+Author: petrakos <petra.koskela@helsinki.fi>
+Date:   Tue Nov 3 03:55:47 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
