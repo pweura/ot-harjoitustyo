@@ -1,6 +1,5 @@
 # Ohjelmistotekniikka, harjoitustyö syksy 2020
-### Welcome! <h2> 
-To my repository of *poking at* code and seeing **what** happens
+Welcome to my **repository**! This is where I *poke* at code and to see what happens
 
 ## Viikko 1
 
