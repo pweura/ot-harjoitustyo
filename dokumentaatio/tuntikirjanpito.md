@@ -1,6 +1,6 @@
-# Työaikakirjanpito
+# Work time accounting
 
-| Päivä | Aika | Mitä tein  |
+| Date | Time | What I did  |
 | :----:|:-----| :-----|
 | 10.11. | 0    |  |
-| Yhteensä   | 0   | | 
+| Total   | 0   | | 
