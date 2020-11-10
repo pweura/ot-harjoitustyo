@@ -21,14 +21,14 @@ luomaan uuden kurssin.
 
 ## Perusversion toiminnallisuus
 
-### Ennen kirjautumista
-- Käyttäjä voi luoda käyttäjätunnuksen
+### Ennen kirjautumista käyttäjä voi
+- luoda käyttäjätunnuksen
   - Tunnuksen täytyy olla uniikki ja vähintään 5 merkkiä pitkä
-- Käyttäjä voi kirjautua sisään
+- kirjautua sisään
   - Jos käyttäjän syöttämä käyttäjätunnus on olemassa, kirjautuminen onnistuu
   - Jos käyttäjän syöttämää käyttäjätunnusta ei ole olemassa, käyttäjälle ilmoitetaan, että tunnusta ei ole olemassa
 
-### Kirjautumisen jälkeen käyttäjä noi
+### Kirjautumisen jälkeen käyttäjä voi
 - nähdä kurssinsa ja niiden tilanteen
 - luoda kurssin
   - Luotu kurssi näkyy vain sen luoneelle käyttäjälle
