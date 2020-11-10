@@ -7,7 +7,8 @@ avulla.
 
 ## Käyttäjät
 
-Sovelluksella on vain normaaleja käyttäjiä, joilla on oikeus vain tallentamiinsa tietoihin.
+Sovelluksella on vain normaaleja käyttäjiä, joilla on oikeus vain tallentamiinsa tietoihin. Käyttäjätilillä on vain vapaamuotoinen nimi,
+ei salasanaa.
 
 ## Käyttöliittymäluonnos
 
@@ -38,6 +39,7 @@ luomaan uuden kurssin.
 - kirjautua ulos
 
 ## Jatkokehitysideoita
+- Salasana, jonka pitää olla yli 8 merkkiä pitkä ja sisältää ainakin yksi numero ja yksi erikoismerkki
 - Historia: Erillinen näkymä käyttäjän suorittamista kursseista. Jokaisella kurssilla on uniikki nimi. Kurssille voi lisätä seuraavia
 tietoja: opintopistemäärä, suorituksen päivämäärä ja arvosana
 - Kalenterinäkymä: Näkymässä on kalenteri, jossa jokaisella rivillä on myös yhteenveto sillä viikolla palautettavista osasuorituksista
