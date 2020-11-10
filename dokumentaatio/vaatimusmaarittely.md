@@ -39,7 +39,7 @@ luomaan uuden kurssin.
 - kirjautua ulos
 
 ## Jatkokehitysideoita
-- Salasana, jonka pitää olla yli 8 merkkiä pitkä ja sisältää ainakin yksi numero ja yksi erikoismerkki
+- Kullakin käyttäjätilillä on salasana, jonka pitää olla yli 8 merkkiä pitkä ja sisältää ainakin yksi numero ja yksi erikoismerkki
 - Historia: Erillinen näkymä käyttäjän suorittamista kursseista. Jokaisella kurssilla on uniikki nimi. Kurssille voi lisätä seuraavia
 tietoja: opintopistemäärä, suorituksen päivämäärä ja arvosana.
 - Kun käyttäjä merkitsee kurssin suoritetuksi, sovellus ehdottaa lisäystä historiaan samalla nimellä ja antaa käyttäjälle tilaisuuden
