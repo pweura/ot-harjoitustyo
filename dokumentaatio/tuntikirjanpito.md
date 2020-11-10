@@ -2,5 +2,5 @@
 
 | Date | Time | What I did  |
 | :----:|:-----| :-----|
-| 10.11. | 0    |  |
-| Total   | 0   | | 
+| 10.11. | 1    | Created this table and layed out requirements for the app |
+| Total   | 1   | | 
