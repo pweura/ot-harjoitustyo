@@ -1,6 +1,6 @@
-# työaikakirjanpito
+# Työaikakirjanpito
 
-| päivä | aika | mitä tein  |
+| Päivä | Aika | Mitä tein  |
 | :----:|:-----| :-----|
 | 10.11. | 0    |  |
-| yht   | 0   | | 
+| Yhteensä   | 0   | | 
