@@ -14,4 +14,4 @@ Sovellusta voidaan soveltaa myös muiden kuin opintojen seuraamiseen, kuten käy
 
 [Vaatimusmäärittely](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 
-[Tuntikirjanpito](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
+[Työaikakirjanpito](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
