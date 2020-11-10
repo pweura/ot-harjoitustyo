@@ -8,6 +8,8 @@ Käyttäjän täytyy itse lisätä sovellukseen tiedot kursseistaan ja päivitt�
 Sovellus tarjoaa ominaisuuksia, joilla on helpompi hahmottaa missä vaiheessa kurssin suoritusta käyttäjä on ja kuinka hyvin 
 kurssilla on edetty.
 
+Sovellusta voidaan soveltaa myös muiden kuin opintojen seuraamiseen, kuten käyttäjän omien harrasteprojektien.
+
 ## Dokumentaatio
 
 [Vaatimusmäärittely](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
