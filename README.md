@@ -1,8 +1,11 @@
 # Ohjelmistotekniikka 2020, harjoitustyö
-Välkommen to my **repository**! This is where I *poke* at code and see what happens
 
-## Viikko 1
+## StudyApp
+Sovelluksen avulla käyttäjä voi seurata edistymistään kaikilla kursseillaan yhdestä paikasta.
+Sovelluksella voi olla useampi käyttäjä, mutta kukin käyttäjä pääsee käsiksi vain oman käyttäjätilinsä tietoihin.
 
-  * [Komentorivi](https://github.com/pweura/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+## Dokumentaatio
 
-  * [Gitlog](https://github.com/pweura/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[Vaatimusmäärittely](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+[Tuntikirjanpito](https://github.com/pweura/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
