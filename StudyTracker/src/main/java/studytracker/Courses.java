@@ -7,9 +7,16 @@ public class Courses {
         this.courses = new ArrayList<>();
     }
     
-    public void addCourse(Course course) {
-        courses.add(course);
+    public void addCourse(String name, double max) {
+        courses.add(new Course(name,max));
     }
     
+    public void addCourse(String name) {
+        addCourse(name,100);
+    }
+    
+    public void addCourse() {
+        addCourse("",100);
+    }
     
 }

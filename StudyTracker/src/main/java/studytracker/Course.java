@@ -10,7 +10,7 @@ public class Course {
     public Course(String name, double maxPoints) {
         this.name = name;
         this.maxPoints = maxPoints;
-        this.pointsSoFar = 0;
+        this.pointsSoFar = 0.0;
         this.subs = new ArrayList<>();
     }
     
@@ -29,14 +29,27 @@ public class Course {
     public double getPointsSoFar() {
         return pointsSoFar;
     }
+    
+    public double getPercentage() {
+        return pointsSoFar/maxPoints;
+    }
 
     public void setPointsSoFar(double pointsSoFar) {
         this.pointsSoFar = pointsSoFar;
     }
     
-    public void addSubCredit(SubCredit sub) {
-        subs.add(sub);
+    public void setSubPoints(SubCredit sub,double now) {
+        sub.setPointsSoFar(now);
     }
+    
+    public void addSubCredit(double max, double now) {
+        subs.add(new SubCredit(max,now));
+    }
+    
+    public void addSubCredit(double max) {
+        subs.add(new SubCredit(max,0));
+    }
+    
     
     @Override
     public String toString() {
