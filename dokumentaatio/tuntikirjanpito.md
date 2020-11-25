@@ -7,4 +7,4 @@
 | 25.11. | 3   | maven plugin fiasco |
 | 25.11. | 1   | created some layouts for the UI |
 | 25.11. | 1/2 | started on creating documentation, presently it's on paper |
-| Total  | 6 1/2  | | 
+| **Total**  | 6 1/2  | | 
